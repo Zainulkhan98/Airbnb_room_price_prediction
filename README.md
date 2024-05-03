@@ -2,6 +2,9 @@
 
 # Airbnb Price Prediction
 
+**Note**
+The projects looks to be written in HTML, but it isn't in reality, GitHub shows it, because the project contains an HTML web file which has all data visulization and analytics.
+
 This project is a machine learning pipeline that predicts Airbnb prices based on various features. The project is implemented in Python and uses the ZenML library to manage the machine learning pipeline.
 
 ## Project Structure
